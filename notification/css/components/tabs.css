@@ -1,0 +1,13 @@
+/* Your tabs CSS code here */
+.tabs {
+  display: flex;
+  padding-left: 100px;
+  padding-bottom: 20px;
+  margin: auto;
+}
+
+.tabs a {
+  text-decoration: none;
+  padding: 10px;
+  font-size: 10px;
+}

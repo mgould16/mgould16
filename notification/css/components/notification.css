@@ -1,0 +1,30 @@
+.notifications {
+}
+
+.notification {
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  background-color: white;
+  margin: 10px;
+  height: 60px;
+
+  box-shadow: 0px 1px #888888;
+  margin: 1.5;
+}
+.notification .date-and-text {
+  padding-left: 20px;
+  padding-top: 10px;
+
+}
+
+.notification .date-and-text .date {
+  margin: 0;
+  color: gray;
+}
+
+.notification .date-and-text .text {
+  margin: 0;
+  color: black;
+}
+
